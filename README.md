@@ -22,6 +22,6 @@ Whether you're aiming for service-based companies or product-based firms, this r
    ```bash
    git clone https://github.com/your-username/campus_placement_training.git
 2. **Navigate by topic
-   Explore folders and practice regularly.
-4. stay consistent
-   Follow a daily or weekly routine to cover all aspects of preparation.
+Explore folders and practice regularly.
+3. **stay consistent
+Follow a daily or weekly routine to cover all aspects of preparation.
